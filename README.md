@@ -30,7 +30,9 @@ Citation Points: 1
 
 ## Nyan Cat
 
-For my second ASCII still life drawing, I did the Nyan Cat. I wasn't inspired by anything to make this, since it just popped into my head. Similar to my process with making Snoopy, I found a picture of the Nyan Cat on the internet, and translated it into ASCII on a grid. 
+For my second ASCII still life drawing, I did the Nyan Cat. I wasn't inspired by anything to make this, since it just popped into my head. 
+
+Similar to my process with making Snoopy, I found a picture of the Nyan Cat on the internet, and translated it into ASCII on a grid. 
 
 ![](nyancat.jpeg)
 
